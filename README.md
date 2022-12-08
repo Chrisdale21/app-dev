@@ -240,5 +240,10 @@ The Chicken Devil that embodies the fear of chickens. He was Asa's class pet dev
 Justice Devil (正義の悪魔, Seigi no Akuma)
 A Devil embodying the fear of justice. Anyone who makes a deal with the Justice Devil is able to turn their innate sense of justice into power. It resides in Forth East High School making several contracts with students including Yuko, implying that it might be building an army by taking over the school.
 
+[Redirect to website](https://en.wikipedia.org/wiki/Chainsaw_Man)
+
+
+Please do stream Chainsaw man 🙂💖
+
 ## What did you experience in creating your 06 Task Performance?
 As someone who used to hear a lot about GitHub, I had a nice experience in making my Task Performance. It was fun and educational since I learned new things and was able to perform and follow the instructions given. Due to the user interface's clarity and the tools for gathering user input's simplicity of identification and understanding, the process was simple and easy.
