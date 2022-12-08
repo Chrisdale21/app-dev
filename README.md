@@ -2,6 +2,8 @@
 My First Repository - Chrisdale A. Lirazan
 
 # My Favorite Series/Movie: Chainsaw man
+![Chainsaw-Man_movie](https://user-images.githubusercontent.com/120107469/206472359-d8ae0a87-20de-44dc-9c14-3e25336e1097.png)
+
 
 Chainsaw Man (Japanese: チェンソーマン, Hepburn: Chensō Man)** is a Japanese manga series written and illustrated by Tatsuki Fujimoto. Its first part was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from December 2018 to December 2020; its second part began serialization in Shueisha's Shōnen Jump+ online magazine in July 2022. Its chapters have been collected in 12 tankōbon volumes as of October 2022. Chainsaw Man follows the story of Denji, an impoverished young man who makes a contract that fuses his body with that of a dog-like devil named Pochita, granting him the ability to transform parts of his body into chainsaws. Denji eventually joins the Public Safety Devil Hunters, a government agency focused on fighting against devils whenever they become a threat to Japan. The second arc of the story focuses on Asa Mitaka, a high school student who goes in a contract with Yoru the War Devil, who forces her to hunt down Chainsaw Man in order to reclaim the devils stolen from her.
 
